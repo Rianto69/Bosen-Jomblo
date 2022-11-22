@@ -2,5 +2,5 @@
 Tinder wannabe :v
 
 step:<br>
-npm install
+npm install<br>
 ionic serve
